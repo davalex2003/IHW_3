@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Java_HW3:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Java_HW3_jar</output-path>
+    <root id="archive" name="Java_HW3.jar">
+      <element id="module-output" name="Java_HW3" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.13.3/jackson-databind-2.13.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-annotations/2.13.3/jackson-annotations-2.13.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-core/2.13.3/jackson-core-2.13.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/JADE-all-4.6.0/jade/lib/jade.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

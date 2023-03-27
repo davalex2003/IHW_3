@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Java_HW3:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1fe465c7-e26f-45fb-bbe8-cffb33ffa409" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/Agents/SupervisorAgent.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2NQQP4t1fSGQyLU3JBALMBIFGiL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/pupki/Desktop/IHW_3_kpo",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Artifacts",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.customizations",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\pupki\Desktop\Java_HW3\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Test">
+    <configuration name="Test" type="Application" factoryName="Application" activateToolWindowBeforeRun="false">
+      <option name="MAIN_CLASS_NAME" value="jade.Boot" />
+      <module name="Java_HW3" />
+      <option name="PROGRAM_PARAMETERS" value="-gui -name Davidenko_Kuprin -agents SupervisorAgent:Agents.SupervisorAgent -port 666" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Java_HW3.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/out/artifacts/Java_HW3_jar/Java_HW3.jar" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.Test" />
+      <item itemvalue="JAR Application.Java_HW3.jar" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JAR Application.Java_HW3.jar" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1fe465c7-e26f-45fb-bbe8-cffb33ffa409" name="Changes" comment="" />
+      <created>1679593798696</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1679593798696</updated>
+      <workItem from="1679593799752" duration="1378000" />
+      <workItem from="1679654298334" duration="6643000" />
+      <workItem from="1679831140797" duration="29654000" />
+      <workItem from="1679928648036" duration="12000" />
+      <workItem from="1679928767363" duration="11773000" />
+      <workItem from="1679943853801" duration="580000" />
+      <workItem from="1679947535348" duration="33000" />
+      <workItem from="1679947615960" duration="761000" />
+      <workItem from="1679949177436" duration="40000" />
+      <workItem from="1679949264561" duration="728000" />
+      <workItem from="1679950007746" duration="531000" />
+      <workItem from="1679950581570" duration="49000" />
+      <workItem from="1679950890047" duration="47000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
